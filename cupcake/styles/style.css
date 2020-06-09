@@ -1,0 +1,15 @@
+ h1 {
+    font-family: cursive; 
+    color: red;
+    text-align: center;
+   }
+  body {
+    color: purple;
+    text-align: center
+   }
+  .my-class {
+     border: 2px solid green;
+     margin: 12px;
+     padding:4 px
+     background-color: orange;
+   }
